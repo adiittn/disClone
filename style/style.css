@@ -87,7 +87,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      transition: 0.2s ease-in-out;
+      transition: 0.4s ease;
     }
     .download-button:hover {
       color: #5447FF;
@@ -105,7 +105,7 @@
       border-radius: 20px;
       display: flex;
       align-items: center;
-      transition: 0.2s ease-;
+      transition: 0.4s;
     }
     
     .download-button-mobile span {
